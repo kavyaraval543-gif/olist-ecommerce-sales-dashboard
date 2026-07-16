@@ -1,3 +1,6 @@
+<img width="956" height="537" alt="image" src="https://github.com/user-attachments/assets/acd8ebb5-de0a-43b3-b0cb-a9b98d666302" />
+
+
 # Olist E-Commerce Sales Dashboard
 
 ## Overview
